@@ -47,5 +47,5 @@
 16. **AnkiBrain** ([Link](https://ankiweb.net/shared/info/1915225457))
    - Code: `1247171202`
 
-17. **Study Time Stats** ([Link](https://ankiweb.net/shared/info/1247171202))
-   - Code: `1915225457`
+17. **set font size** ([Link](https://ankiweb.net/shared/info/651521808))
+   - Code: `651521808`
