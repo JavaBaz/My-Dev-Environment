@@ -1,0 +1,23 @@
+htop
+btop
+caffeine
+tldr
+neofetch
+super productivity
+bitwarden
+stacer
+safeeyes
+kate
+obs
+mpv
+vlc
+anki
+gparted
+pinta
+fdm
+sweeper
+krename
+grub-customizer
+spectacle
+diskonaut
+ncdu
