@@ -21,3 +21,5 @@ grub-customizer
 spectacle
 diskonaut
 ncdu
+thunar-archive-plugin 
+geeqie
