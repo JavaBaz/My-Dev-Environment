@@ -23,3 +23,7 @@ diskonaut
 ncdu
 thunar-archive-plugin 
 geeqie
+copyq
+lsof
+motrix
+Pomotroid
